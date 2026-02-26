@@ -67,7 +67,7 @@ backend/
 │
 ├── src/
 │   ├── controllers/
-│   │     └── auth.controllers.js
+│   │     ├── auth.controllers.js
 │   │     └── task.controllers.js
 │   │
 │   ├── models/

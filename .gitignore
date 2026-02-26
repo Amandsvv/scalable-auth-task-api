@@ -119,7 +119,3 @@ dist
 
 # End of https://mrkandreev.name/snippets/gitignore-generator/#Node
 .vercel
-
-./src/controllers/task.controllers.js
-./src/models/task.models.js
-./src/routes/task.routes.js
